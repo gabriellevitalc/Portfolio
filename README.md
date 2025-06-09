@@ -64,11 +64,5 @@ Características principais
 
 📜 README.md → Este arquivo de documentação
 
-🛠 Tecnologias Utilizadas
-
-✅ HTML5
-
-- Uso de tags estruturais como <h1>, <h2>, <p>, <ul>, <li>, <section>, <a>, <button>.
-
 
 
