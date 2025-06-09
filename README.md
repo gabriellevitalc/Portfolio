@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório pessoal de portfólio! Aqui você encontrará pág
 📌 Descrição
 Este portfólio foi desenvolvido para exibir:
 - Página inicial (index.html)
-- Seção Sobre mim: Introdução pessoal com idade, educação e interesses (desenvolvimento de jogos, engenharia de software e Web3).
+- Seção Sobre mim: Introdução pessoal com idade, educação e interesses (desenvolvimento front-end, engenharia de software e design de interfaces).
 - Seção Meus Certificados: Links para certificados de Python e JavaScript, obtidos pela Cisco Networking Academy em parceria com a CESAR School.
 - Seção Meus Projetos: Informações sobre o projeto "Recife de Memórias" e o "CRUD de Animais - Vida Pet", com links para GitHub.
 - Seção Meus Contatos: Informações de contato, incluindo e-mail e LinkedIn.
