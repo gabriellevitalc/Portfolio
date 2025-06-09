@@ -1,6 +1,7 @@
 
 📌 Meu Portfólio
 Portfólio – Gabrielle Capezzera Vital de Castro
+
 Bem-vindo ao meu repositório pessoal de portfólio! Aqui você encontrará páginas HTML principais que apresentam minhas informações, certificados e projetos.
 📌 Descrição
 Este portfólio foi desenvolvido para exibir:
