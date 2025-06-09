@@ -60,7 +60,9 @@ Características principais
 
 📄 portfolio.html → Página principal do portfólio
 
-🎨 style.css → Folha de estilo global (usando Flexbox)
+📄 recife.html → Página direcionada para o projeto "Recife de Memórias"
+
+🎨 style.css → Folha de estilo global
 
 📜 README.md → Este arquivo de documentação
 
